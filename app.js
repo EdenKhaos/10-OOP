@@ -3,7 +3,7 @@ const Manager = require("./lib/Manager");
 const Engineer = require("./lib/Engineer");
 const Intern = require("./lib/Intern");
 
-//npm packages(install npm init -y) and inquirer (npm i inquirer), npm install --save-dev jest
+//remember to install npm packages first 1. (install npm init -y) and 2. inquirer (npm i inquirer), 3. npm install --save-dev jest
 const inquirer = require("inquirer");
 const path = require("path");
 const fs = require("fs");

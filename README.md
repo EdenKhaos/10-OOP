@@ -15,7 +15,10 @@ I want to generate a webpage that displays my team's basic info
 so that I have quick access to emails and GitHub profiles
 ``` 
 # Working App Gif
-![teamapp]()
+![teamapp](https://github.com/EdenKhaos/10-OOP/blob/master/assets/10%20__%20Object-Oriented%20Programming_%20Team%20Profile%20Generator.gif)
+![teamapp](https://github.com/EdenKhaos/10-OOP/blob/master/assets/testpass.JPG)
+![teamapp](https://github.com/EdenKhaos/10-OOP/blob/master/assets/prompts.JPG)
+![teamapp](https://github.com/EdenKhaos/10-OOP/blob/master/assets/myteam.JPG)
 
 # Technologies Used
 * Javascript
@@ -28,4 +31,29 @@ so that I have quick access to emails and GitHub profiles
 * fs
 * path
 * jest
+
+ ## License
+
+  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+
+  ## Contributors
+
+  ![GitHub license](https://img.shields.io/badge/Made%20by-%40EdenKhaos-orange)
+
+  ## Test
+
+  ![GitHub license](https://img.shields.io/badge/test-100%25-success)
+
+  ## Questions
+  If you have any questions, contact EdenKhaos on GitHub.
+
+  ## Repository
+
+  - [Project Repo](https://github.com/EdenKhaos/10-OOP)
+
+  ## Github
+
+  ![image of me](https://avatars1.githubusercontent.com/u/66695464?v=4)
+  - Heather Cooper
+  - [Github Profile](https://github.com/EdenKhaos)
 
